@@ -1,5 +1,5 @@
 # SimpleDLS
-Easy To Use small website download link server.
+Easy To Use small website download link server. Try it at simpledls-demo.localtunnel.me.
 
 ## Setup
 SimpleDLS is a very easy to use Download Link Server for your home served website.
